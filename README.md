@@ -1,6 +1,7 @@
 # 新站🏡
 `test` `blog`</br>
 baseURL [📍](https://yjan1016.github.io/)
+[https://yjan1016.github.io/index.md](https://yjan1016.github.io/index.md)
 <table border="1" style="color:">
 <tr><td colspan="2"><center>大坏蛋之猫的一天</center></td></tr>
 <tr>
